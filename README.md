@@ -1,6 +1,8 @@
-# Save-The-Santa
-
-⛄ Flappy Bird like game with Santa and Winter theme
+<div>
+<h1 align="center">Save The Santa</h1>
+</div>
+<center>⛄ Flappy Bird like game with Santa and Winter theme</center>
+<br></br>
 
 Dive into the chilly world of "Save The Santa"! Guide Santa through a winter wonderland, dodging icy cubes as you soar through the frosty skies. Tap to flap, navigate past each ice cube, and earn points for every successful pass. Simple, addictive, and perfect for the holiday season. How many ice cubes can you dodge? 🎅❄️🎄.
 
