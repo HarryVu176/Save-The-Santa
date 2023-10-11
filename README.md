@@ -1,4 +1,4 @@
-#Save-The-Santa
+# Save-The-Santa
 
 ⛄ Flappy Bird like game with Santa and Winter theme
 
